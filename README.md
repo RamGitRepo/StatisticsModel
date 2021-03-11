@@ -1,2 +1,2 @@
 # StatisticsModel
-Statistics for Data Science
+Statistical Model Using Polynomial Regression - EEG Signal Prediction
